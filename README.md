@@ -3,7 +3,7 @@ This repo holds DB migration scripts used by [demo-blog-backend](https://github.
 Design schema tries to follows best practices described here: [https://www.mongodb.com/developer/article/mongodb-schema-design-best-practices](https://www.mongodb.com/developer/article/mongodb-schema-design-best-practices)
 
 ## [Database schema](https://lucid.app/documents/view/fcaf2f01-eb38-42ad-b58d-9dd257fc1f84)
-## [![App](https://raw.githubusercontent.com/IvanDimanov/demo-blog-db-migrations/master/image.png)](https://lucid.app/documents/view/fcaf2f01-eb38-42ad-b58d-9dd257fc1f84)
+## [![App](https://raw.githubusercontent.com/IvanDimanov/demo-blog-db-migrations/main/image.png)](https://lucid.app/documents/view/fcaf2f01-eb38-42ad-b58d-9dd257fc1f84)
 
 <br />
 
