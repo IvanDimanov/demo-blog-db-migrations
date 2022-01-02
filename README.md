@@ -8,7 +8,7 @@ Design schema tries to follows best practices described here: [https://www.mongo
 <br />
 
 ## Tech stack
-- sequelize: [https://sequelize.org/](https://sequelize.org/)
+- migrate-mongo: [https://github.com/seppevs/migrate-mongo](https://github.com/seppevs/migrate-mongo)
 - joi: [https://www.npmjs.com/package/joi](https://www.npmjs.com/package/joi)
 
 <br />
