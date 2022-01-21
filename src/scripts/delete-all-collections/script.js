@@ -1,4 +1,4 @@
-require('../utils/validateEnvVars')
+require('../../utils/validateEnvVars')
 
 const { MongoClient } = require('mongodb')
 const client = new MongoClient(process.env.MONGODB_URI);
